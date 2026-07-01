@@ -1,9 +1,9 @@
 # Vision Phoenix (VPH)
 ## Efficient Latent-State Context Reasoning for Robust Pedestrian Detection
-
-<p align="center">
+## Visual Surveillance and Biometrics Security Laboratory (ViBeS Lab) IIITDM Kancheepuram
+<!-- <p align="center">
 <img src="docs/VPH_Overall.jpg" width="900">
-</p>
+</p> -->
 
 Official implementation of the paper:
 
@@ -47,7 +47,7 @@ VPH is integrated into the P4 feature level of the YOLOv7 PAN-FPN neck, where it
 ### Internal Architecture
 
 <p align="center">
-<img src="docs/VPH_Internal.jpgjpg" width="900">
+<img src="docs/VPH_Internal.jpg" width="900">
 </p>
 
 The VPH module performs context reasoning through six sequential stages:
@@ -91,7 +91,7 @@ Vision-Phoenix-VPH
 Clone the repository
 
 ```bash
-git clone https://github.com/<username>/Vision-Phoenix-VPH.git
+git clone https://github.com/Sukesh-babu/Vision-Phoenix-VPH.git
 
 cd Vision-Phoenix-VPH
 ```
@@ -206,7 +206,7 @@ This project is released under the MIT License.
 Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram
 
 Email:
-sukeshpdm@gmail.com
+cs22d0001@iiitdm.ac.in
 
 ---
 
