@@ -41,7 +41,7 @@ ENV/
 # ============================
 
 runs/
-results/
+#results/
 output/
 outputs/
 checkpoints/
