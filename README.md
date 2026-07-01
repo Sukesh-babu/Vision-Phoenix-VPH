@@ -74,7 +74,7 @@ Vision-Phoenix-VPH
 ├── results/
 ├── scripts/
 ├── utils/
-├── weifgts/
+├── weights/
 │
 ├── train.py
 ├── test.py
@@ -183,15 +183,12 @@ results/
 If you find this repository useful, please cite:
 
 ```bibtex
-@article{sukesh2026campedv2,
-  title={CamPedV2: A Diverse Real-Time Pedestrian Detection Dataset for Challenging Environmental Conditions},
+@article{sukesh2026vph,
+  title={Vision Phoenix: Efficient Latent-State Context Reasoning for Robust Pedestrian Detection},
   author={Sukesh Babu, V. S. and Raman, Rahul},
   journal={The Visual Computer},
-  volume={42},
-  number={9},
-  pages={351},
-  year={2026},
-  doi={10.1007/s00371-026-04566-z}
+  note={Under Review},
+  year={2026}
 }
 ```
 
