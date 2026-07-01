@@ -1,0 +1,109 @@
+# ============================
+# Python
+# ============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ============================
+# Virtual Environments
+# ============================
+
+venv/
+env/
+ENV/
+.venv/
+
+# ============================
+# Jupyter
+# ============================
+
+.ipynb_checkpoints/
+
+# ============================
+# PyTorch
+# ============================
+
+*.pth
+*.pt
+*.ckpt
+
+# If you later decide to release pretrained weights,
+# comment the above lines and keep only:
+# !weights/vph.pt
+
+# ============================
+# Training Outputs
+# ============================
+
+runs/
+results/
+output/
+outputs/
+checkpoints/
+logs/
+
+# ============================
+# TensorBoard
+# ============================
+
+events.out.tfevents*
+tensorboard/
+
+# ============================
+# Weights & Cache
+# ============================
+
+*.cache
+.cache/
+
+# ============================
+# Dataset
+# ============================
+
+data/images/
+data/labels/
+data/cache/
+
+# Ignore downloaded datasets
+datasets/
+
+# ============================
+# IDE
+# ============================
+
+.vscode/
+.idea/
+
+# ============================
+# OS Files
+# ============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Build Files
+# ============================
+
+build/
+dist/
+*.egg-info/
+
+# ============================
+# Logs
+# ============================
+
+*.log
+
+# ============================
+# Temporary Files
+# ============================
+
+*.tmp
+*.temp

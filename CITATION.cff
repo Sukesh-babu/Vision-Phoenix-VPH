@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Vision Phoenix (VPH): Efficient Latent-State Context Reasoning for Robust Pedestrian Detection"
+
+message: "If you use this repository in your research, please cite the associated manuscript."
+
+type: software
+
+authors:
+  - family-names: "Babu"
+    given-names: "Sukesh V. S."
+    affiliation: "Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram"
+
+  - family-names: "Raman"
+    given-names: "Rahul"
+    affiliation: "Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram"
+
+repository-code: "https://github.com/<YOUR_USERNAME>/Vision-Phoenix-VPH"
+
+license: MIT
+
+keywords:
+  - Pedestrian Detection
+  - Object Detection
+  - Computer Vision
+  - Deep Learning
+  - YOLOv7
+  - Vision Phoenix
+  - Latent-State Reasoning
+  - Context Reasoning
+
+abstract: >
+  Vision Phoenix (VPH) is an efficient latent-state context reasoning module
+  designed for robust pedestrian detection. The module enhances contextual
+  feature representation through structured latent-state interactions while
+  maintaining computational efficiency. VPH is lightweight, detector-independent,
+  and can be integrated into convolution-based object detection frameworks.
